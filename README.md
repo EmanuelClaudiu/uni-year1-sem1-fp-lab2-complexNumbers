@@ -3,9 +3,9 @@
   
 Statement:  
   
-  1 - Print the longest sequence with the real part in form of a mountain  
-  2 - Print the longest sequence with real and immaginary parts that can both be written using the same base 10 digits  
-  3 - Print the whole list of complex numbers  
+&nbsp;1 - Print the longest sequence with the real part in form of a mountain  
+&nbsp;2 - Print the longest sequence with real and immaginary parts that can both be written using the same base 10 digits  
+&nbsp;3 - Print the whole list of complex numbers  
     
 Can either input a list of complex numbers, or use a predefined one  
 This homework solution is not fully functional.
