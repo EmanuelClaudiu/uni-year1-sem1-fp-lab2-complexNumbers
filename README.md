@@ -1,5 +1,5 @@
 # uni-year1-sem1-fp-lab2-complexNumbers
- The second lab at Fundaments of Programming. Here i used low coupling programming principle for the first time, aswell as getters and setters.
+ The second lab at Fundaments of Programming. Here I used low coupling programming principle for the first time, aswell as getters and setters.
 
 Can either input a list of complex numbers, or use a predefined one  
 The statement:  
